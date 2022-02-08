@@ -6,7 +6,7 @@ export const config = {
     // text: `logo_text.png`,   // This is needed if you want to use a text logo.
   },
 
-  webApiUrl: `https://n2k-api.an.r.appspot.com`,
+  webApiUrl: ``,
 
   consoleLocation: 'bottom',    // Placing the console.
   keepState: false,
